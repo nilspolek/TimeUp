@@ -27,7 +27,7 @@ go install github.com/nilspolek/TimeUp@latest
 This command will fetch and install TimeUp to your $GOPATH/bin (or $HOME/go/bin if you are using Go modules).
 
 ```bash
-timeup
+TimeUp
 ```
 You should see the timer display showing the elapsed time.
 
