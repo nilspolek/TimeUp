@@ -1,6 +1,6 @@
 
 # TimeUp - A Simple Timer in Go
-<img src="./image/main.png" alt="TimeUp" width="40" height="40"/>
+<img src="./image/main.png" alt="TimeUp" />
 
 TimeUp is a simple timer written in Go that displays the passed time since its start. It allows users to keep track of elapsed time in a straightforward manner. Whether you're timing a task or need a quick reference for elapsed time, TimeUp provides a clean and efficient way to do so.
 
