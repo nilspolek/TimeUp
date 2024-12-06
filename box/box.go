@@ -114,7 +114,6 @@ func (b Box) toString(title string, lines []string) string {
 
 	// Get padding on one side
 	paddingCount := b.Px
-
 	n := _longestLine + (paddingCount * 2) + 2
 
 	if b.TitlePos != inside && runewidth.StringWidth(color.ClearCode(title)) > n-2 {
